@@ -1,5 +1,6 @@
 ###                   Hi there, I'm Vicky 👋
 
+<br> 
 - 🔭 I’m currently working on an e-commerce platform!
 - 🌱 I’m currently learning Redux and Tailwind CSS.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
