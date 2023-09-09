@@ -1,6 +1,8 @@
 ###                   Hi there, I'm Vicky 👋
 
-- 🔭 I’m currently working on a Text Classification model!
+- 🔭 I’m currently working on an e-commerce platform!
+- 🌱 I’m currently learning Redux and Tailwind CSS.
+- ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
 - 📫 How to reach me: Send me an email on rkvignesh2401@gmail.com !
 
 <!--
