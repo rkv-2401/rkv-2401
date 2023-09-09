@@ -1,4 +1,7 @@
-### Hi there 👋
+###                   Hi there, I'm Vicky 👋
+
+- 🔭 I’m currently working on a Text Classification model!
+- 📫 How to reach me: Send me an email on rkvignesh2401@gmail.com !
 
 <!--
 **rkv-2401/rkv-2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
