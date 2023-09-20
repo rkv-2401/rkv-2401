@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on an e-commerce platform!
-- 🌱 I’m learning Redux and Tailwind CSS.
+- 🌱 I’m learning Zustand and Tailwind CSS.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
 - 📫 Send me an email on rkvignesh2401@gmail.com !
 
