@@ -2,7 +2,6 @@
         <h1 align = "Center"> <b> Hi there, I'm Vicky 👋 </b> </h1>
 </p>
 
-- 🔭 I’m currently working on a Kahoot app built in React!
 - 🌱 I’m learning Zustand and Tailwind CSS.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
 - 📫 Send me an email on rkvignesh2401@gmail.com !
