@@ -4,7 +4,7 @@
 
 - 🌱 I’m learning Zustand and Tailwind CSS.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
-- 📫 Send me an email on rkvignesh2401@gmail.com !
+- 📫 Send me an email at rkvignesh2401@gmail.com !
 
 <!--
 **rkv-2401/rkv-2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
