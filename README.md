@@ -2,7 +2,7 @@
         <h1 align = "Center"> <b> Hi there, I'm Vicky 👋 </b> </h1>
 </p>
 
-- 🌱 I’m learning Zustand and Tailwind CSS.
+- 🌱 I’m learning Zustand and Redis.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
 - 📫 Send me an email at rkvignesh2401@gmail.com !
 
