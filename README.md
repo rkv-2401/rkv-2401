@@ -5,16 +5,19 @@
 - 🌱 I’m learning how to use Docker and Redis.
 - ⚡ Fun fact: I also have a Bachelor's degree in Chemical Engineering!
 - 📫 Send me an email at rkvignesh2401@gmail.com !
-
-<h3>Technical books I'm reading</h3>
 <p>
-  - Fluent Python <br />
-  - Database System Concepts <br />
-  - SQL Cookbook <br />
+        <h3>Technical books I'm reading</h3>
 </p>
-<h3>Books I've read</h3>
-  - Node.js in Action <br />
-  - Artificial Intelligence - Foundations of Computational Agents (first 6 chapters) <br />
+<p>
+          - Fluent Python <br />
+          - Database System Concepts <br />
+          - SQL Cookbook <br />
+</p>
+<p>
+        <h3>Books I've read</h3>
+          - Node.js in Action <br />
+          - Artificial Intelligence - Foundations of Computational Agents (first 6 chapters) <br />
+</p>
 
 
 <!--
