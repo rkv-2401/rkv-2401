@@ -7,17 +7,13 @@
 - 📫 Send me an email at rkvignesh2401@gmail.com !
 
 <h3>Technical books I'm reading</h3>
-<p>
   - Fluent Python
   - Database System Concepts
   - SQL Cookbook
-</p>
 
 <h3>Books I've read</h3>
-<p>
   - Node.js in Action
   - Artificial Intelligence - Foundations of Computational Agents (first 6 chapters)
-</p>
 
 
 <!--
