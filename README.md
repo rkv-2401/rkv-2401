@@ -9,15 +9,15 @@
         <h3>Technical books I'm reading</h3>
 </p>
 <p>
-          &ensp; - Fluent Python <br />
-          &ensp; - SQL for mere mortals <br />
-          &ensp; - Database System Concepts <br />
-          &ensp; - SQL Cookbook <br />
+          &ensp; &ensp;- Fluent Python <br />
+          &ensp; &ensp;- SQL for mere mortals (4 chapters in) <br />
+          &ensp; &ensp;- Database System Concepts <br />
+          &ensp; &ensp;- SQL Cookbook <br />
 </p>
 <p>
         <h3>Books I've read</h3>
-          &ensp; - Node.js in Action <br />
-          &ensp; - Artificial Intelligence - Foundations of Computational Agents (first 6 chapters) <br />
+          &ensp; &ensp;- Node.js in Action <br />
+          &ensp; &ensp;- Artificial Intelligence - Foundations of Computational Agents (first 6 chapters) <br />
 </p>
 
 
