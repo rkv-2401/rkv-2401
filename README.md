@@ -10,6 +10,7 @@
 </p>
 <p>
           - Fluent Python <br />
+          - SQL for mere mortals <br />
           - Database System Concepts <br />
           - SQL Cookbook <br />
 </p>
