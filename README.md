@@ -16,6 +16,7 @@
 </p>
 <p>
         <h3>Books I've read</h3>
+          &ensp; &ensp;- Python Distilled <br />
           &ensp; &ensp;- Node.js in Action <br />
           &ensp; &ensp;- Artificial Intelligence - Foundations of Computational Agents (first 6 chapters) <br />
 </p>
